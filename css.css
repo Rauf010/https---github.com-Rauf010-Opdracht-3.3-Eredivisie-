@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid;
+  }
+  table, th, td {
+    border: 2px solid;
+  }
+  table {
+    width: 50%;
+  }
+  
+  th {
+    background-color: #88f26e;
+    color: white;
+  }
